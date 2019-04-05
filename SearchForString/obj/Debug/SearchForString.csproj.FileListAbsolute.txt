@@ -1,0 +1,10 @@
+E:\yedek\Project\Test\SearchForString\SearchForString\bin\Debug\SearchForString.exe.config
+E:\yedek\Project\Test\SearchForString\SearchForString\bin\Debug\SearchForString.exe
+E:\yedek\Project\Test\SearchForString\SearchForString\bin\Debug\SearchForString.pdb
+E:\yedek\Project\Test\SearchForString\SearchForString\obj\Debug\SearchForString.csprojAssemblyReference.cache
+E:\yedek\Project\Test\SearchForString\SearchForString\obj\Debug\SearchForString.Form1.resources
+E:\yedek\Project\Test\SearchForString\SearchForString\obj\Debug\SearchForString.Properties.Resources.resources
+E:\yedek\Project\Test\SearchForString\SearchForString\obj\Debug\SearchForString.csproj.GenerateResource.cache
+E:\yedek\Project\Test\SearchForString\SearchForString\obj\Debug\SearchForString.csproj.CoreCompileInputs.cache
+E:\yedek\Project\Test\SearchForString\SearchForString\obj\Debug\SearchForString.exe
+E:\yedek\Project\Test\SearchForString\SearchForString\obj\Debug\SearchForString.pdb
